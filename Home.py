@@ -6,9 +6,8 @@ st.set_page_config(
     page_icon="🏠"
    
   )  
-    
-image_path =r'C:\Users\alissontc\OneDrive - MS365\Documentos\projeto_python_CDS/'
-image = Image.open(image_path + 'logo.png') 
+
+image = Image.open('logo.png') 
 st.sidebar.image( image, width = 120)
 
 st.sidebar.markdown('# Cury Company')
