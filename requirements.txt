@@ -1,0 +1,11 @@
+folium==0.13.0
+haversine==2.7.0
+inflection==0.5.1
+seaborn==0.12.1
+streamlit-folium==0.7.0
+pandas==1.4.4
+plotly==5.11.0
+matplotlib==3.6.2
+numpy==1.23.4
+streamlit==1.15.2
+Pillow==9.3.0
